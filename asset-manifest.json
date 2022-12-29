@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dddbe7e.css",
+    "main.js": "/static/js/main.9c4763ea.js",
+    "static/media/Turkish_Airlines_logo.png": "/static/media/Turkish_Airlines_logo.2b1725507a22d5907a2c.png",
+    "index.html": "/index.html",
+    "main.3dddbe7e.css.map": "/static/css/main.3dddbe7e.css.map",
+    "main.9c4763ea.js.map": "/static/js/main.9c4763ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dddbe7e.css",
+    "static/js/main.9c4763ea.js"
+  ]
+}
